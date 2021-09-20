@@ -9,7 +9,7 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoura2790&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoura2790&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true)
 
 
 <div>
