@@ -1,6 +1,6 @@
 
 
-## Oi eu sou o Gabriel Moura 😀
+## Oi eu sou o Gabriel C Moura 😀
 ##### Sou estudante do IFCE-campus Aracati, tenho 20 anos e sou apaixonado por tecnologia.
 </br>
 
