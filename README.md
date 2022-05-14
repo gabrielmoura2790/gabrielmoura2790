@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoura2790&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura2790&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura2790&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
