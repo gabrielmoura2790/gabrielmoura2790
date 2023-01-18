@@ -26,3 +26,5 @@ Sou estudante de Ciência da Computação, tenho 22 anos e sou apaixonado por de
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_mour4/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-chaves-moura/)
+
+![snake gif](https://github.com/gabrielmoura2790/gabrielmoura2790/blob/output/github-contribution-grid-snake.svg)
