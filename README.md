@@ -10,17 +10,19 @@ Sou estudante de Ciência da Computação, tenho 22 anos e sou apaixonado por de
 🛠️ Typescript  
 🧰 E mais ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoura2790&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true)
+![gabrielmoura2790's Stats](https://github-readme-stats.vercel.app/api?username=gabrielmoura2790&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide_title=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoura2790&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div>
 <br/>
 
