@@ -1,12 +1,12 @@
 ### Olá, eu sou Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Sou estudante de Ciência da Computação, tenho 22 anos e sou apaixonado por desenvolver aplicações web e mobile.
+Sou formado em Ciência da Computação pelo IFCE, tenho 22 anos e sou apaixonado por desenvolver aplicações web e mobile.
 
 #### Minhas ferramentas atuais
 
 📲 Front-end Mobile com React Native  
 🌎 Front-end Web com Reactjs  
-📡 Back-end com Nodejs  
+📡 Back-end com Nodejs e Java  
 🛠️ Typescript  
 🧰 E mais ...
 
@@ -21,12 +21,11 @@ Sou estudante de Ciência da Computação, tenho 22 anos e sou apaixonado por de
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img width=30px height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_mour4/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-chaves-moura/)
-
-![snake gif](https://github.com/gabrielmoura2790/gabrielmoura2790/blob/output/github-contribution-grid-snake.svg)
